@@ -1,5 +1,6 @@
 {
-	"event_slider": [{
+	"event_slider": [
+		{
 			"event_name_time": "ATB",
 			"event_image_url": "https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif",  
 			"event_type_url": "Exo",
