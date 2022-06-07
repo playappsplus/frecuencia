@@ -1,0 +1,87 @@
+{
+	"event_slider": [
+
+		{
+			"event_name_time": "15:45 Alemania vs Inglaterra",
+			"event_image_url": "http://imgfz.com/i/f3g5kpF.jpeg",  
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-83-243/zveld/1654628732/src/live.m3u8",
+			"event_url_3": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8",
+			"event_url_4": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8"
+		},
+		{
+			"event_name_time": "ATB",
+			"event_image_url": "https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif",  
+			"event_type_url": "Exo",
+			"event_url_1": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "UNITEL",
+			"event_image_url": "http://imgfz.com/i/EDOobRA.jpeg",  
+			"event_type_url": "Exo",
+			"event_url_1": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "TV PERU",
+			"event_image_url": "http://imgfz.com/i/6XaNDTM.jpeg",  
+			"event_type_url": "Web",
+			"event_url_1": "https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		}
+	],
+	"event_date": "Martes 07 de Junio - GMT-3",
+	"events": [
+
+		{
+			"event_name_time": "15:00 Emiratos Arabes vs Australia",
+			"event_type_url": "Exo",
+			"event_url_1": "https://my.tiviapp.com/espn-transcode-bitninja/index.m3u8",
+			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-79-67/zhixe/1654453563/src/live.m3u8",
+			"event_url_3": "https://my.tiviapp.com/espn-transcode-bitninja/index.m3u8",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "15:45 Alemania vs Inglaterra",
+			"event_type_url": "Exo",
+			"event_url_1": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8",
+			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-83-243/zveld/1654628732/src/live.m3u8",
+			"event_url_3": "",
+			"event_url_4": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8"
+		},
+		{
+			"event_name_time": "15:45 Italia vs Hungria",
+			"event_type_url": "Exo",
+			"event_url_1": "https://my.tiviapp.com/francedina-transcode-ninjabit/index.m3u8",
+			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-84-72/lohik/1654628918/src/live.m3u8",
+			"event_url_3": "https://my.tiviapp.com/francedina-transcode-ninjabit/index.m3u8",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "20:00 Granada vs El Salvador",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		}
+	
+	],
+	"is_banner": "true",
+	"is_interstitial": "true",
+	"ad_network_type":"facebook",
+	"banner_ad_id":"1607873662919178_1607875756252302",
+	"interstitial_ad_id":"1607873662919178_1607875826252295",
+	"interstitial_ad_num":"3",
+	"app_update":"false",
+	"app_update_msg":"Nos mudamos a otra aplicacion, todos los partidos se veran en otra aplicacion y puedes descargarlo desde Play Store",
+	"app_update_link":"https://www.facebook.com/futbolplaylatino/"
+}
