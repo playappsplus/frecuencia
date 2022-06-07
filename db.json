@@ -2,7 +2,7 @@
 	"event_slider": [
 
 		{
-			"event_name_time": "15:45 Alemania vs Inglaterra",
+			"event_name_time": "Caranavi vs Coroico",
 			"event_image_url": "http://imgfz.com/i/f3g5kpF.jpeg",  
 			"event_type_url": "Exo",
 			"event_url_1": "",
@@ -42,7 +42,7 @@
 	"events": [
 
 		{
-			"event_name_time": "15:00 Emiratos Arabes vs Australia",
+			"event_name_time": "Caranavi vs Coroico",
 			"event_type_url": "Exo",
 			"event_url_1": "https://my.tiviapp.com/espn-transcode-bitninja/index.m3u8",
 			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-79-67/zhixe/1654453563/src/live.m3u8",
@@ -50,7 +50,7 @@
 			"event_url_4": ""
 		},
 		{
-			"event_name_time": "15:45 Alemania vs Inglaterra",
+			"event_name_time": "Caranavi vs Coroico",
 			"event_type_url": "Exo",
 			"event_url_1": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8",
 			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-83-243/zveld/1654628732/src/live.m3u8",
@@ -58,7 +58,7 @@
 			"event_url_4": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8"
 		},
 		{
-			"event_name_time": "15:45 Italia vs Hungria",
+			"event_name_time": "Caranavi vs Coroico",
 			"event_type_url": "Exo",
 			"event_url_1": "https://my.tiviapp.com/francedina-transcode-ninjabit/index.m3u8",
 			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-84-72/lohik/1654628918/src/live.m3u8",
@@ -66,7 +66,7 @@
 			"event_url_4": ""
 		},
 		{
-			"event_name_time": "20:00 Granada vs El Salvador",
+			"event_name_time": "Caranavi vs Coroico",
 			"event_type_url": "Exo",
 			"event_url_1": "",
 			"event_url_2": "",
