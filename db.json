@@ -28,7 +28,6 @@
 			"event_url_4": ""
 		}
 	],
-	"event_date": "Martes 07 de Junio - GMT-3",
 	"events": [
 
 		{
@@ -64,14 +63,5 @@
 			"event_url_4": ""
 		}
 	
-	],
-	"is_banner": "true",
-	"is_interstitial": "true",
-	"ad_network_type":"facebook",
-	"banner_ad_id":"1607873662919178_1607875756252302",
-	"interstitial_ad_id":"1607873662919178_1607875826252295",
-	"interstitial_ad_num":"3",
-	"app_update":"false",
-	"app_update_msg":"Nos mudamos a otra aplicacion, todos los partidos se veran en otra aplicacion y puedes descargarlo desde Play Store",
-	"app_update_link":"https://www.facebook.com/futbolplaylatino/"
+	]
 }
